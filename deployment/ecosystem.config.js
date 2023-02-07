@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name   : "Serie",
+    name   : "serie-api",
     script : "npm run start",
     instances: 1,
     env: {
