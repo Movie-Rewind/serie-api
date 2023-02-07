@@ -13,6 +13,7 @@ const serieDocumentParser = require('./domain/serie/services/serie-document-pars
 
 const container = awilix.createContainer({
 	injectionMode: awilix.InjectionMode.PROXY,
+
 });
 
 container.register({
